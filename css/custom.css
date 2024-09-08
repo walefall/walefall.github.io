@@ -1,0 +1,5 @@
+.preloader {
+    background: url(/img/background.jpg) no-repeat center center;
+    background-size: cover; /* 让背景图片适应屏幕 */
+  }
+  
